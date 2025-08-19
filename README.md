@@ -38,9 +38,6 @@ Here are My 10 most popular library's frameworks and languages:
 ## 📊 GitHub Stats & Activity  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=ryan-dev9&show_icons=true&theme=tokyonight)  
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryan-dev9&show_icons=true&theme=tokyonight)  
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ryan-dev9&theme=tokyonight)  
 
 ---
