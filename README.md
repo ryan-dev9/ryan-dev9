@@ -4,7 +4,7 @@
 
 
 - 🌍 I'm based in India  
-- 🌐 See my portfolio: [github.com/ryandev97](https://github.com/ryan-dev9)  
+- 🌐 See my portfolio: [github.com/ryan-dev9](https://github.com/ryan-dev9)  
 - ⚡ RX-Prompts: [rx-prompts.vercel.app](https://rx-prompts.vercel.app)  
 - 🚀 RD-Blog: [rdblog.vercel.app](https://rdblog.vercel.app)  
 - 📧 You can contact me at **ryandeveloper97@gmail.com**  
